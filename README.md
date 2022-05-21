@@ -8,5 +8,6 @@ From the loaded data we can use mySQL server to write queries in real time.
 ![webappqueries](https://user-images.githubusercontent.com/82669026/169672612-c26b39fd-2903-483a-a707-842642795b6e.jpeg)
 
 So we can generate tables as such.
+
 ![Screenshot_1](https://user-images.githubusercontent.com/82669026/169672647-100702c8-7879-411c-9426-e3e83af4de4e.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/82669026/169672649-24d86a8f-914c-44b6-b146-a2689c62081f.png)
